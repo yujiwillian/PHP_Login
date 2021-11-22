@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+body input
+{
+	border-radius: 10px;
+}
+
+body button
+{
+	background-color: #606BE7;
+	color: aliceblue;
+}
+
+body button:active
+{
+	background-color: black;
+}
+
+body button:hover
+{
+	background-color: #C30C0F;
+}
+
+body a
+{
+	color: #E22443;
+}
+
+body a:hover
+{
+	color: aqua;
+}
